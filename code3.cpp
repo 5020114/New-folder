@@ -7,7 +7,6 @@ int main()
     while(t--)
     {
         int n;
-        cin>>n;
         int word[n],i;
         for(i=0;i<n;i++)
             cin>>word[i];
